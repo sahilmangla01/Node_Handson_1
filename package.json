@@ -1,0 +1,23 @@
+{
+  "name": "hanson_1",
+  "version": "1.0.0",
+  "description": "Create a route using http module and explain what is node by sending response in HTML and JSON format",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrishabhsharma/Node_Handson_1.git"
+  },
+  "author": "Hrishabh Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrishabhsharma/Node_Handson_1/issues"
+  },
+  "homepage": "https://github.com/hrishabhsharma/Node_Handson_1#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
