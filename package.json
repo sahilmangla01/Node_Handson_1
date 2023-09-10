@@ -10,10 +10,8 @@
   
   "author": "Sahil Mangla",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/hrishabhsharma/Node_Handson_1/issues"
-  },
-  "homepage": "https://github.com/hrishabhsharma/Node_Handson_1#readme",
+  
+  
   "dependencies": {
     "nodemon": "^3.0.1"
   }
