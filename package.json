@@ -7,11 +7,8 @@
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hrishabhsharma/Node_Handson_1.git"
-  },
-  "author": "Hrishabh Sharma",
+  
+  "author": "Sahil Mangla",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hrishabhsharma/Node_Handson_1/issues"
